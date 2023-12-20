@@ -7,7 +7,7 @@ Join the `#dev-general` channel on [Discord](https://discord-layerzero.netlify.a
 ​
 ## Build on LayerZero V2
 ​
-All of the contracts in `/oapp` can be referred to when building an Omnichain Application (OApp):
+Developers can easily send arbitrary data, external function calls, and tokens with omnichain messaging while preserving full autonomy and control over their application:
 ​
 - **OApp**: The OApp Standard provides developers with a generic message passing interface to send and receive arbitrary pieces of data between contracts existing on different blockchain networks. See the[ OApp Quickstart](https://docs.layerzero.network/contracts/oapp) to start building.
 ​
