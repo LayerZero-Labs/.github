@@ -2,7 +2,7 @@
 [LayerZero](https://layerzero.network/) is an innovative open-source, immutable messaging protocol, that connects blockchains (50+ and counting) to enable omnichain interoperability for blockchain applications. With LayerZero, developers have the power to create applications that can seamlessly interact across multiple blockchains.
 ​<br></br>
 Refer to the [LayerZero V2 Docs](https://docs.layerzero.network/contracts/overview) for implementing, handling, and debugging LayerZero contracts.
-​
+​<br></br>
 Join the `#dev-general` channel on [Discord](https://discord-layerzero.netlify.app/discord) to discuss technical issues.
 ​
 ## Build on LayerZero V2
