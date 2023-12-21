@@ -1,6 +1,8 @@
 # Welcome to LayerZero
 
 [LayerZero](https://layerzero.network/) is an innovative open-source, immutable messaging protocol, that connects blockchains (50+ and counting) to enable omnichain interoperability for blockchain applications. With LayerZero, developers have the power to create applications that can seamlessly interact across multiple blockchains.
+
+![banner](https://miro.medium.com/v2/resize:fit:1358/format:webp/0*nSEojpy03DInV0A2)
 ​<br></br>
 Refer to the [LayerZero V2 Docs](https://docs.layerzero.network/contracts/overview) for implementing, handling, and debugging LayerZero contracts.
 ​<br></br>
