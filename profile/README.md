@@ -1,8 +1,8 @@
 # Welcome to LayerZero
 
-[LayerZero](https://layerzero.network/) is an innovative open-source, immutable messaging protocol, that connects blockchains (50+ and counting) to enable omnichain interoperability for blockchain applications. With LayerZero, developers have the power to create applications that can seamlessly interact across multiple blockchains.
-
 ![banner](https://miro.medium.com/v2/resize:fit:1358/format:webp/0*nSEojpy03DInV0A2)
+<br></br>
+[LayerZero](https://layerzero.network/) is an innovative open-source, immutable messaging protocol, that connects blockchains (50+ and counting) to enable omnichain interoperability for blockchain applications. With LayerZero, developers have the power to create applications that can seamlessly interact across multiple blockchains.
 ​<br></br>
 Refer to the [LayerZero V2 Docs](https://docs.layerzero.network/contracts/overview) for implementing, handling, and debugging LayerZero contracts.
 ​<br></br>
@@ -12,9 +12,9 @@ Join the `#dev-general` channel on [Discord](https://discord-layerzero.netlify.a
 ​
 Developers can easily send arbitrary data, external function calls, and tokens with omnichain messaging while preserving full autonomy and control over their application:
 ​
-- **OApp**: The OApp Standard provides developers with a generic message passing interface to send and receive arbitrary pieces of data between contracts existing on different blockchain networks. See the[ OApp Quickstart](https://docs.layerzero.network/contracts/oapp) to start building.
+- **OApp**: a generic message passing interface to send and receive arbitrary pieces of data across different blockchains. See the[ OApp Quickstart](https://docs.layerzero.network/contracts/oapp) to start building.
 ​<br></br>
-- **OFT**: The Omnichain Fungible Token (OFT) Standard allows fungible tokens to be transferred across multiple blockchains without asset wrapping or middlechains. See the [OFT Quickstart](https://docs.layerzero.network/contracts/oft) to learn more.
+- **OFT**: enables fungible tokens to be transferred across multiple blockchains without asset wrapping or middlechains. See the [OFT Quickstart](https://docs.layerzero.network/contracts/oft) to learn more.
 ​
 ## Build on LayerZero V1
 ​
