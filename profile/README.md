@@ -18,7 +18,7 @@ Developers can easily send arbitrary data, external function calls, and tokens w
 ​
 ## Build on LayerZero V1
 ​
-For legacy support for LayerZero V1, refer to the [Endpoint V1 documentation](https://layerzero.gitbook.io/docs/faq/what-is-layerzero-v1).
+For legacy support for LayerZero V1, refer to the [LayerZero V1 documentation](https://layerzero.gitbook.io/docs).
 ​
 ## Run DVNs and Executors
 ​
