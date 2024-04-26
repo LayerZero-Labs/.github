@@ -12,21 +12,21 @@ Join the `#dev-general` channel on [Discord](https://discord-layerzero.netlify.a
 ​
 Developers can easily send arbitrary data, external function calls, and tokens with omnichain messaging while preserving full autonomy and control over their application:
 ​
-- **OApp**: a generic message passing interface to send and receive arbitrary pieces of data across different blockchains. See the[ OApp Quickstart](https://docs.layerzero.network/contracts/oapp) to start building.
+- **OApp**: a generic message passing interface to send and receive arbitrary pieces of data across different blockchains. See the[ OApp Quickstart](https://docs.layerzero.network/v2/developers/evm/oapp/overview) to start building.
 ​<br></br>
-- **OFT**: enables fungible tokens to be transferred across multiple blockchains without asset wrapping or middlechains. See the [OFT Quickstart](https://docs.layerzero.network/contracts/oft) to learn more.
+- **OFT**: enables fungible tokens to be transferred across multiple blockchains without asset wrapping or middlechains. See the [OFT Quickstart](https://docs.layerzero.network/v2/developers/evm/oft/quickstart) to learn more.
 ​
 ## Build on LayerZero V1
 ​
-For legacy support for LayerZero V1, refer to the [Endpoint V1 documentation](https://layerzero.gitbook.io/docs/faq/what-is-layerzero-v1).
+For legacy support for LayerZero V1, refer to the [Endpoint V1 documentation](https://docs.layerzero.network/v1).
 ​
 ## Run DVNs and Executors
 ​
-See reference implementations for how the [DVN](https://docs.layerzero.network/explore/decentralized-verifier-networks) and [Executor](https://docs.layerzero.network/explore/executors) communicate with the Ultra Light Nodes on each chain.
+See reference implementations for how the [DVN](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses) and [Executor](https://docs.layerzero.network/explore/executors) communicate with the Ultra Light Nodes on each chain.
 ​
-- **DVN**: Developers can run a custom DVN by deploying a DVN contract on every chain they want to support. See the [Build DVN](https://docs.layerzero.network/contracts/develop-dvn) guide to create your own security providers.
+- **DVN**: Developers can run a custom DVN by deploying a DVN contract on every chain they want to support. See the [Build DVN](https://docs.layerzero.network/v2/developers/evm/off-chain/build-dvns) guide to create your own security providers.
 ​​<br></br>
-- **Executor**: Developers can deploy a custom Executor to ensure the seamless execution of messages on the destination chain. See the [Executor](https://docs.layerzero.network/contracts/develop-executor) guide.
+- **Executor**: Developers can deploy a custom Executor to ensure the seamless execution of messages on the destination chain. See the [Executor](https://docs.layerzero.network/v2/developers/evm/off-chain/build-executors) guide.
 ​
 <br></br>
 
