@@ -22,7 +22,7 @@ For legacy support for LayerZero V1, refer to the [Endpoint V1 documentation](ht
 ​
 ## Run DVNs and Executors
 ​
-See reference implementations for how the [DVN](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses) and [Executor](https://docs.layerzero.network/explore/executors) communicate with the Ultra Light Nodes on each chain.
+See reference implementations for how the [DVN](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses) and [Executor](https://docs.layerzero.network/v2/home/permissionless-execution/executors) communicate with the Ultra Light Nodes on each chain.
 ​
 - **DVN**: Developers can run a custom DVN by deploying a DVN contract on every chain they want to support. See the [Build DVN](https://docs.layerzero.network/v2/developers/evm/off-chain/build-dvns) guide to create your own security providers.
 ​​<br></br>
