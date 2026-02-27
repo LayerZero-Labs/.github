@@ -30,4 +30,4 @@ See reference implementations for how the [DVN](https://docs.layerzero.network/v
 ​
 <br></br>
 
-[Website](https://layerzero.network/) • [Docs](https://docs.layerzero.network/) • [Twitter](https://twitter.com/LayerZero_Labs) • [Telegram](https://t.me/joinchat/VcqxYkStIDsyN2Rh) • [Discord](https://discord-layerzero.netlify.app/discord)
+[Website](https://layerzero.network/) • [Docs](https://docs.layerzero.network/) • [Twitter](https://twitter.com/LayerZero_Labs) • [Telegram](https://t.me/joinchat/VcqxYkStIDsyN2Rh)
